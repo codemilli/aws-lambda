@@ -1,0 +1,10 @@
+{
+  "name": "s3ToLambdaFunc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.6.0",
+    "gm": "^1.23.1"
+  }
+}

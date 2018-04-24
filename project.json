@@ -1,0 +1,8 @@
+{
+  "name": "aws-lambda-1",
+  "description": "",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::642353223286:role/aws-lambda-1_lambda_function",
+  "environment": {}
+}
